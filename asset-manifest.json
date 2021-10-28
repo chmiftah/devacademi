@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/devacademi/static/css/main.0ac1dea5.chunk.css",
+    "main.js": "/devacademi/static/js/main.000b29b1.chunk.js",
+    "main.js.map": "/devacademi/static/js/main.000b29b1.chunk.js.map",
+    "runtime-main.js": "/devacademi/static/js/runtime-main.ec651349.js",
+    "runtime-main.js.map": "/devacademi/static/js/runtime-main.ec651349.js.map",
+    "static/js/2.821c3062.chunk.js": "/devacademi/static/js/2.821c3062.chunk.js",
+    "static/js/2.821c3062.chunk.js.map": "/devacademi/static/js/2.821c3062.chunk.js.map",
+    "static/js/3.525ac243.chunk.js": "/devacademi/static/js/3.525ac243.chunk.js",
+    "static/js/3.525ac243.chunk.js.map": "/devacademi/static/js/3.525ac243.chunk.js.map",
+    "index.html": "/devacademi/index.html",
+    "static/css/main.0ac1dea5.chunk.css.map": "/devacademi/static/css/main.0ac1dea5.chunk.css.map",
+    "static/js/2.821c3062.chunk.js.LICENSE.txt": "/devacademi/static/js/2.821c3062.chunk.js.LICENSE.txt",
+    "static/media/girl.44f73df6.png": "/devacademi/static/media/girl.44f73df6.png",
+    "static/media/spinner.c221513e.gif": "/devacademi/static/media/spinner.c221513e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec651349.js",
+    "static/js/2.821c3062.chunk.js",
+    "static/css/main.0ac1dea5.chunk.css",
+    "static/js/main.000b29b1.chunk.js"
+  ]
+}
